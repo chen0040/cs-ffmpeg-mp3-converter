@@ -4,3 +4,5 @@ cs-ffmpeg-mp3-converter/obj
 bin
 obj 
 *.suo
+
+packages/
