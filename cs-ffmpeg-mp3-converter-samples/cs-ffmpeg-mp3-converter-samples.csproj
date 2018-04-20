@@ -32,6 +32,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="cs-ffmpeg-mp3-converter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FFMPEG-MP3-Converter.1.0.1\lib\net461\Debug\cs-ffmpeg-mp3-converter.dll</HintPath>
+    </Reference>
+    <Reference Include="cs-pdf-to-image, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FFMPEG-MP3-Converter.1.0.1\lib\net461\Release\cs-pdf-to-image.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -47,12 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\cs-ffmpeg-mp3-converter\cs-ffmpeg-mp3-converter.csproj">
-      <Project>{f129b500-4de0-401b-a7aa-7afebb834d8e}</Project>
-      <Name>cs-ffmpeg-mp3-converter</Name>
-    </ProjectReference>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

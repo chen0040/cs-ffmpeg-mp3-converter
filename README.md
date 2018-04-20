@@ -14,7 +14,7 @@ Install-Package FFMPEG-MP3-Converter -Version 1.0.1
 ```cs
 string source_filename="sample.au";
 string target_filename="converted.mp3"; 
-List<string> errors = cs_ffmpeg_mp3_converter.FFMpeg.Convert2Mp3(source_filename, target_filename);
+cs_ffmpeg_mp3_converter.FFMpeg.Convert2Mp3(source_filename, target_filename);
 ```
 
 
