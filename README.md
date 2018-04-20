@@ -5,7 +5,7 @@ Convert audio files of other formats to mp3 using ffmpeg in .NET
 # Install 
 
 ```bash
-Install-Package FFMPEG-MP3-Converter -Version 1.0.1
+Install-Package FFMPEG-MP3-Converter -Version 1.0.2
 ```
 
 
