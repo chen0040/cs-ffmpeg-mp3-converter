@@ -33,10 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="cs-ffmpeg-mp3-converter, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\FFMPEG-MP3-Converter.1.0.1\lib\net461\Debug\cs-ffmpeg-mp3-converter.dll</HintPath>
-    </Reference>
-    <Reference Include="cs-pdf-to-image, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\FFMPEG-MP3-Converter.1.0.1\lib\net461\Release\cs-pdf-to-image.dll</HintPath>
+      <HintPath>..\packages\FFMPEG-MP3-Converter.1.0.2\lib\net461\Release\cs-ffmpeg-mp3-converter.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
