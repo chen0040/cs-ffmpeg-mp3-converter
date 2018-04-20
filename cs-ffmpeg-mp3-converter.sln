@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-ffmpeg-mp3-converter", "cs-ffmpeg-mp3-converter\cs-ffmpeg-mp3-converter.csproj", "{F129B500-4DE0-401B-A7AA-7AFEBB834D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-ffmpeg-mp3-converter-samples", "cs-ffmpeg-mp3-converter-samples\cs-ffmpeg-mp3-converter-samples.csproj", "{20B91900-D50D-48F1-842F-54E46659D0F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F129B500-4DE0-401B-A7AA-7AFEBB834D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F129B500-4DE0-401B-A7AA-7AFEBB834D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F129B500-4DE0-401B-A7AA-7AFEBB834D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F129B500-4DE0-401B-A7AA-7AFEBB834D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B91900-D50D-48F1-842F-54E46659D0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B91900-D50D-48F1-842F-54E46659D0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B91900-D50D-48F1-842F-54E46659D0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B91900-D50D-48F1-842F-54E46659D0F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7674B8AA-0367-496B-9DC8-17767CB8F4BC}
+	EndGlobalSection
+EndGlobal

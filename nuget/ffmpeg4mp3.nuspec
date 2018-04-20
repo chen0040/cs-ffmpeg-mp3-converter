@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FFMPEG-MP3-Converter</id>
+    <version>1.0.1</version>
+    <authors>chen0040</authors>
+    <owners>chen0040</owners>
+    <licenseUrl>https://github.com/chen0040/cs-ffmpeg-mp3-converter/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/chen0040/cs-ffmpeg-mp3-converter</projectUrl>
+    <iconUrl>https://rawgit.com/chen0040/cs-pdf-to-image/master/icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>FFMPEG MP3 Converter</description>
+    <releaseNotes>Convert audio file of other formats to MP3 Format using FFMPEG</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>ffmpeg, mp3, audio-converter</tags>
+	<title>FFMPEG MP3 Converter</title>
+	<summary>Convert audio file of other formats to MP3 Format using FFMPEG, support net 4.6.1</summary>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>
